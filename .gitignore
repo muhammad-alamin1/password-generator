@@ -1,0 +1,5 @@
+*.obj
+*.o
+*.exe
+password_generator.cbp
+password_generator.depend
