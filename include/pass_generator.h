@@ -1,7 +1,6 @@
 #include <iostream>
 #include <string>
 
-
 #ifndef PASS_GENERATOR_H_INCLUDED
 #define PASS_GENERATOR_H_INCLUDED
 
@@ -24,6 +23,5 @@ class Password_generator
         std::string generate_password();
 
 };
-
 
 #endif // PASS_GENERATOR_H_INCLUDED
